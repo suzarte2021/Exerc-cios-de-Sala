@@ -1,2 +1,2 @@
-# Exerc-cios-de-Sala
+# Exercicios-de-Sala
 Exercícios de Sala
